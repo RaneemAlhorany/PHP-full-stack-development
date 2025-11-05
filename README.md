@@ -12,6 +12,6 @@ step (1) : Root Setup Project
       2) Create your first PHP file.
       3) See PHP and HTML working together.
 
-      the project :
-  [here](https://github.com/RaneemAlhorany/Root-Setup-Project) 
+      the project : is bellow
+  [click here](https://github.com/RaneemAlhorany/Root-Setup-Project) 
 
