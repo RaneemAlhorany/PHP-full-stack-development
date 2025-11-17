@@ -26,4 +26,27 @@ Goal:
 
 [click here](https://github.com/RaneemAlhorany/Dynamic-Greeting-Page)  
 
+
+project (3) : Simple Calculator
+
+Goal :
+
+    Learn how to:
+       1) How to create <form> in HTML
+       2) Difference between GET and POST
+       3)  How to receive data using $_GET or $_POST
+       4) How to process numbers in PHP
+       5) How to build logic using conditions
+       6) How to print results dynamically
+
+[click here](https://github.com/RaneemAlhorany/Simple-Calculator-in-php) 
+
+
+
+
+
+
+
+
+
     
