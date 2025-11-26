@@ -42,7 +42,7 @@ Goal :
 [click here](https://github.com/RaneemAlhorany/Simple-Calculator-in-php) 
 
 
-project (4) : 
+project (4) : Random Quote Generator
 
 Goal :
 
