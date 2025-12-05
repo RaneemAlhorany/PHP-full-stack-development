@@ -59,5 +59,13 @@ Goal :
 [click here](https://github.com/RaneemAlhorany/Temperature-Converter-in-php) 
 
 
+project (6) : Number Analyzer
+
+Goal :
+
+     Build a simple PHP page that takes a number from the user and analyzes it.
+
+[click here](https://github.com/RaneemAlhorany/Number-Analyzer) 
+
 
     
