@@ -68,4 +68,16 @@ Goal :
 [click here](https://github.com/RaneemAlhorany/Number-Analyzer) 
 
 
+
+project (7) : Even / Odd Counter
+
+Goal :
+
+    Create a PHP program that allows the user to enter a number N, then:
+    Count how many even numbers exist from 1 to N  
+    Count how many odd numbers exist from 1 to N
+    Display both results clearly on the page
+     
+
+[click here](https://github.com/RaneemAlhorany/Even-Odd-Counter) 
     
