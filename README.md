@@ -80,4 +80,19 @@ Goal :
      
 
 [click here](https://github.com/RaneemAlhorany/Even-Odd-Counter) 
+
+
+project (8) : Grade System
+
+Goal :
+
+    You will build a Grade System using PHP.
+    The program should:
+    Take a student’s score from the user (0 → 100)
+    Analyze the score
+    Display the grade based on predefined rules
+
+     
+
+[click here](https://github.com/RaneemAlhorany/Grade-System-using-PHP) 
     
